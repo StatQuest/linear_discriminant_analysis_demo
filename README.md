@@ -1,1 +1,2 @@
-# linear_discriminant_analysis_demo
+This is the code from the StatQuest...
+* Linear Discriminant Analysis (LDA) clearly explained: https://youtu.be/azXCzI57Yfc
